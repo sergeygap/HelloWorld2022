@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agreement_full_text">Нажимая на кнопку Вы подтверждаете, что ознакомились
+        с условиями использования и политикой конфидециальности</string>
+    <string name="confidential_info">условиями использования</string>
+    <string name="privacy_policy">политикой конфидециальностьи</string>
+    <string name="HelloWorld">Привет мир! Это снова я и мое первое мобильное приложение в 2022</string>
+    <string name="app_name">Моя первая программа 2022</string>
+</resources>

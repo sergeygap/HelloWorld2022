@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld2022</string>
+    <string name="agreement_full_text">By pressing next button you confirm the agreement and
+        privacy policy </string>
+    <string name="confidential_info">agreement</string>
+    <string name="privacy_policy" >privacy policy</string>
+    <string name="HelloWorld">Hello World! This is my first project on android in 2022 ever and i am enjoying it!</string>
+</resources>
